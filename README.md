@@ -1,4 +1,5 @@
-- 👋 Hi There, It's Anish! 👋
+**Hi There!** 👋 
+
 - 🌱 I’m Currently Learning Web Design. 🌱
 - 📫 Email - sinhanish.rajan@gmail.com 💞️ 
 
