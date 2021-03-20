@@ -9,7 +9,7 @@ The green dots on my [**GitHub** profile](https://github.com/sinha-anish) repres
 
 <br>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sinha-anish) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=sinha-anish.visitor-badge)](https://github.com/sinha-anish)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sinha-anish) [![Profile Views](https://visitor-badge.glitch.me/badge?page_id=sinha-anish.visitor-badge)](https://github.com/sinha-anish)
 
 ### Github Stats 📈
 
