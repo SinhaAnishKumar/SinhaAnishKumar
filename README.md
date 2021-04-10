@@ -21,10 +21,10 @@ The green dots on my [**GitHub** profile](https://github.com/AnishKumarSinha) re
 <p align="center"> Let's Have A Chat On ❤ </p> 
 <p align="center">
 	<a href="https://github.com/AnishKumarSinha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-	<a href="https://facebook.com/sinhanish"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+	<a href="https://facebook.com/SinhaAnishKumar"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 	<a href="https://instagram.com/anish_kumar_sinha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 	<a href="https://linkedin.com/in/anish-kumar-sinha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-	<a href="https://twitter.com/sinhaanishkumar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+	<a href="https://twitter.com/SinhaAnishKumar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 	<a href="https://t.me/sinhanish"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
