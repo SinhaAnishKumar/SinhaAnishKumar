@@ -4,7 +4,7 @@
 
 I love to learn and contribute in any and every possible way. 
 The green dots on my [**GitHub** profile](https://github.com/AnishKumarSinha) represent my journey :running_man: 
-- 🌱 I’m currently learning web design. 🌱
+- 🌱 I’m currently learning web development. 🌱
 - 💬 Email - sinhanish.rajan@gmail.com 💞️ 
 - 😉 Funfact - If you water water, it grows. 😉
 
