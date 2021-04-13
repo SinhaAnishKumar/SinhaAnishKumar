@@ -7,17 +7,11 @@ The green dots on my [**GitHub** profile](https://github.com/SinhaAnishKumar) re
 - 🌱 I’m currently learning web development. 🌱
 - 💬 Email - sinhaanishkumar@yahoo.com 💞️ 
 - 😉 Funfact - If you water water, it grows. 😉
-
 <br>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SinhaAnishKumar) [![Profile Views](https://visitor-badge.glitch.me/badge?page_id=SinhaAnishKumar.visitor-badge)](https://github.com/SinhaAnishKumar)
 
-### Github Stats 📈
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinhaAnishKumar&layout=compact&theme=radical)
-<p ><img src="https://github-readme-stats.vercel.app/api?username=sinhaanishkumar&show_icons=true&theme=radical" alt="sinhaanishkumar" /></p>
-
-<br><br>
+<br>
 <p align="center"> Let's Have A Chat On ❤ </p> 
 <p align="center">
 	<a href="https://github.com/SinhaAnishKumar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
