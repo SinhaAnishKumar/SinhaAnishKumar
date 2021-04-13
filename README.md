@@ -1,17 +1,19 @@
 ### Hi There! 👋 
 **Glad to see you here!** :star_struck:
-#### I'm Coder!💻
+#### I'm Coder💻 & Illustrator🎨!
 
 I love to learn and contribute in any and every possible way. 
 The green dots on my [**GitHub** profile](https://github.com/SinhaAnishKumar) represent my journey :running_man: 
 - 🌱 I’m currently learning web development. 🌱
 - 💬 Email - sinhaanishkumar@outlook.com 💞️ 
 - 😉 Funfact - If you water water, it grows. 😉
-<br>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SinhaAnishKumar) [![Profile Views](https://visitor-badge.glitch.me/badge?page_id=SinhaAnishKumar.visitor-badge)](https://github.com/SinhaAnishKumar)
+<br>[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SinhaAnishKumar) [![Profile Views](https://visitor-badge.glitch.me/badge?page_id=SinhaAnishKumar.visitor-badge)](https://github.com/SinhaAnishKumar)
 
-<br>
+### Github Stats 📈
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinhaAnishKumar&layout=compact&theme=radical) <br>
+<img src="https://github-readme-stats.vercel.app/api?username=SinhaAnishKumar&show_icons=true&theme=radical" alt="SinhaAnishKumar" />
+
 <p align="center"> Let's Have A Chat On ❤ </p> 
 <p align="center">
 	<a href="https://github.com/SinhaAnishKumar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
