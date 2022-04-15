@@ -13,7 +13,7 @@ The green dots on my [**GitHub** profile](https://github.com/SinhaAnishKumar) re
 ### Github Stats 📈
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinhaAnishKumar&layout=compact&theme=radical)
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sinhaanishkumar&show_icons=true&theme=radical" alt="SinhaAnishKumar" /> <br><br><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sinhaanishkumar&show_icons=true&theme=radical" alt="SinhaAnishKumar" /> <br><br><br><br>
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=SinhaAnishKumar&theme=tokyonight)
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
