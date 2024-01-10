@@ -8,7 +8,7 @@ The green dots on my [**GitHub** profile](https://github.com/SinhaAnishKumar) re
 - 💬 Email - sinhaanishkumar@outlook.com 💞️ 
 - 😉 Funfact - If you water water, it grows. 😉
 
-<br>[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SinhaAnishKumar) [![Profile Views](https://visitor-badge.glitch.me/badge?page_id=SinhaAnishKumar.visitor-badge)](https://github.com/SinhaAnishKumar)
+<br>[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SinhaAnishKumar)
 
 ### Github Stats 📈
 
